@@ -1,1 +1,3 @@
- #My first Readme file 
+ # My repo Non Read me file
+
+ # Doing hard things 
