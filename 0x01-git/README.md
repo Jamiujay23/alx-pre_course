@@ -1,3 +1,3 @@
- # I am working very hard to ensure i become a full stack engineer
+ # Working very hard to become a full stack engineer
 
- # With Grit i will surely get there
+ # With grit i will achieve my goal 
