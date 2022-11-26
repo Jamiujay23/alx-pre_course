@@ -1,3 +1,3 @@
- # I will work hard in becoming a full stack engineer
+ # I am working very hard to ensure i become a full stack engineer
 
- # With growth mindset i will achieve my goal
+ # With Grit i will surely get there
