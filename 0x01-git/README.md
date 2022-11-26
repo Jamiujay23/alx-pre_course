@@ -1,3 +1,3 @@
- # My repo Non Read me file
+ # I will work hard in becoming a full stack engineer
 
- # Doing hard things 
+ # With growth mindset i will achieve my goal
